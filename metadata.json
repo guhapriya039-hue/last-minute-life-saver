@@ -1,0 +1,6 @@
+{
+  "name": "Last-Minute Life Saver",
+  "description": "An AI-powered proactive productivity companion that helps students and professionals plan, prioritize, and complete chaotic tasks before deadlines are missed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
